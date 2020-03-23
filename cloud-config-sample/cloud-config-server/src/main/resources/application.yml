@@ -5,4 +5,5 @@ spring:
     config:
       server:
         git:
+          # 本地git目录
           uri: file:///E:/program/code/cloud/config-repo
